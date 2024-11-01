@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServicoUI", "ServicoUI\ServicoUI.csproj", "{517DC05A-B62D-4C57-BFFE-4FF5D4D11FA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servico", "..\..\Downloads\Servico (6)\Servico\Servico\Servico.csproj", "{7A49BF7B-5BC1-4E57-8832-0A27060D9C15}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ZipMailService", "ZipMailService\ZipMailService.vdproj", "{472F6004-F81F-41EA-8D23-73D43B0957F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{517DC05A-B62D-4C57-BFFE-4FF5D4D11FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517DC05A-B62D-4C57-BFFE-4FF5D4D11FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{517DC05A-B62D-4C57-BFFE-4FF5D4D11FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{517DC05A-B62D-4C57-BFFE-4FF5D4D11FA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A49BF7B-5BC1-4E57-8832-0A27060D9C15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A49BF7B-5BC1-4E57-8832-0A27060D9C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A49BF7B-5BC1-4E57-8832-0A27060D9C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A49BF7B-5BC1-4E57-8832-0A27060D9C15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{472F6004-F81F-41EA-8D23-73D43B0957F0}.Debug|Any CPU.ActiveCfg = Debug
+		{472F6004-F81F-41EA-8D23-73D43B0957F0}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6F17E52-667C-4489-951A-A2315F26F970}
+	EndGlobalSection
+EndGlobal

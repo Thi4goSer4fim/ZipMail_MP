@@ -1,0 +1,16 @@
+C:\Users\Desktop\Documents\ServicoUI\ServicoUI\bin\Release\net8.0-windows\ServicoUI.exe
+C:\Users\Desktop\Documents\ServicoUI\ServicoUI\bin\Release\net8.0-windows\ServicoUI.deps.json
+C:\Users\Desktop\Documents\ServicoUI\ServicoUI\bin\Release\net8.0-windows\ServicoUI.runtimeconfig.json
+C:\Users\Desktop\Documents\ServicoUI\ServicoUI\bin\Release\net8.0-windows\ServicoUI.dll
+C:\Users\Desktop\Documents\ServicoUI\ServicoUI\bin\Release\net8.0-windows\ServicoUI.pdb
+C:\Users\Desktop\Documents\ServicoUI\ServicoUI\obj\Release\net8.0-windows\ServicoUI.Form1.resources
+C:\Users\Desktop\Documents\ServicoUI\ServicoUI\obj\Release\net8.0-windows\ServicoUI.csproj.GenerateResource.cache
+C:\Users\Desktop\Documents\ServicoUI\ServicoUI\obj\Release\net8.0-windows\ServicoUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\Documents\ServicoUI\ServicoUI\obj\Release\net8.0-windows\ServicoUI.AssemblyInfoInputs.cache
+C:\Users\Desktop\Documents\ServicoUI\ServicoUI\obj\Release\net8.0-windows\ServicoUI.AssemblyInfo.cs
+C:\Users\Desktop\Documents\ServicoUI\ServicoUI\obj\Release\net8.0-windows\ServicoUI.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Documents\ServicoUI\ServicoUI\obj\Release\net8.0-windows\ServicoUI.dll
+C:\Users\Desktop\Documents\ServicoUI\ServicoUI\obj\Release\net8.0-windows\refint\ServicoUI.dll
+C:\Users\Desktop\Documents\ServicoUI\ServicoUI\obj\Release\net8.0-windows\ServicoUI.pdb
+C:\Users\Desktop\Documents\ServicoUI\ServicoUI\obj\Release\net8.0-windows\ServicoUI.genruntimeconfig.cache
+C:\Users\Desktop\Documents\ServicoUI\ServicoUI\obj\Release\net8.0-windows\ref\ServicoUI.dll
