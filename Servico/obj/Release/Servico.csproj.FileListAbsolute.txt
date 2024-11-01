@@ -1,9 +1,0 @@
-C:\Users\Desktop\Downloads\Servico (6)\Servico\Servico\bin\Release\Servico.exe.config
-C:\Users\Desktop\Downloads\Servico (6)\Servico\Servico\bin\Release\Servico.exe
-C:\Users\Desktop\Downloads\Servico (6)\Servico\Servico\bin\Release\Servico.pdb
-C:\Users\Desktop\Downloads\Servico (6)\Servico\Servico\obj\Release\Servico.csproj.AssemblyReference.cache
-C:\Users\Desktop\Downloads\Servico (6)\Servico\Servico\obj\Release\Servico.ProjectInstaller.resources
-C:\Users\Desktop\Downloads\Servico (6)\Servico\Servico\obj\Release\Servico.csproj.GenerateResource.cache
-C:\Users\Desktop\Downloads\Servico (6)\Servico\Servico\obj\Release\Servico.csproj.CoreCompileInputs.cache
-C:\Users\Desktop\Downloads\Servico (6)\Servico\Servico\obj\Release\Servico.exe
-C:\Users\Desktop\Downloads\Servico (6)\Servico\Servico\obj\Release\Servico.pdb
